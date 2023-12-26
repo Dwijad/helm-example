@@ -31,4 +31,15 @@ entries:
     urls:
     - https://dwijad.github.io/helm-example/nginx-chart-0.1.0.tgz
     version: 0.1.0
+  nginx-charts:
+  - apiVersion: v2
+    appVersion: 1.17.1
+    created: "2023-12-26T06:17:42.809804298Z"
+    description: A Helm chart for Kubernetes
+    digest: 872584858ab3879a028e8cb44ea0d3a5e581537d454d7fd50d79278338c57534
+    name: nginx-charts
+    type: application
+    urls:
+    - https://github.com/Dwijad/helm-example/releases/download/nginx-charts-0.1.2/nginx-charts-0.1.2.tgz
+    version: 0.1.2
 generated: "2023-12-25T19:52:38.162797956+05:30"
